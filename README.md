@@ -17,4 +17,4 @@ When the end-user interacts with our web app, the user must give consent to thei
 ## Scope
 The project incorporates front-end and back-end work enough for 4-5 people to work on for a semester due to it being a significant challenge in the back-end. However, it is of note that this project would not be difficult to the point of uncompletion because we only deal with sign language to text translation, and not both sign to text and text to sign.
 
-This project of course, will have to deal with hand recognition AI/ML in order to translate the sign language into text. We forecast that this would be the major focus of our efforts for this semester. Nonetheless, we are confident that we will be able to surmount this hurdle.
+This project of course, will have to deal with hand recognition AI/ML in order to translate the sign language into text. We forecast that this would be the major focus of our efforts for this semester. Nonetheless, we are confident that we will be able to surmount this hurdle. 
